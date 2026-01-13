@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+matplotlib
+seaborn
+pymoo
+linopy
+oemof.solph
+pyomo
+cbc
